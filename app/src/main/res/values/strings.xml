@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OTAPa</string>
+    <string name="dialog_name">OTP Reference</string>
+    <string name="enter_text">Enter the name of the app</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="update_message">System will automatically update if new version is present</string>
+    <string name= "saved_app_name">appName</string>
+    <string name="number_of_times">numberOfTimes</string>
+    <string name="warning">Oops! Incorrect app name</string>
+</resources>
